@@ -1,0 +1,9 @@
+
+2023-05-08T14:52:39.589-05:00  INFO 5476 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-08T14:52:39.591-05:00  INFO 5476 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-05-08T14:52:39.594-05:00  INFO 5476 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2023-05-08T14:52:39.730-05:00  INFO 5476 --- [http-nio-8080-exec-2] c.e.s.controller.ClienteController       : este es el clientenull
+2023-05-08T14:54:04.389-05:00  INFO 5476 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-05-08T14:54:04.389-05:00  INFO 5476 --- [SpringApplicationShutdownHook] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2023-05-08T14:54:04.410-05:00  INFO 5476 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-05-08T14:54:04.417-05:00  INFO 5476 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
