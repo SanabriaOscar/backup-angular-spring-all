@@ -1,0 +1,4 @@
+ejb\UserBean.class
+servlet\UserServlet.class
+ejb\UserBeanImpl.class
+model\User.class
